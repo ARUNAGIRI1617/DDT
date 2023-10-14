@@ -1,0 +1,2 @@
+ python -m pytest Tests/test_logind_dtt.py -v -s --html-report=Reports/login_ddt.html
+
